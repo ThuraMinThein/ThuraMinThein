@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Thura Min Thein, from Myanmar, Yangon.</h2>
+<h2 align="left">Hi 👋! I'm Thura Min Thein, from Yangon, Myanmar.</h2>
 
 ###
 
