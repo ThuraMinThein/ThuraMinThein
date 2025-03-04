@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Thura Min Thein,  from Yangon, Myanmar.</h2>
+<h2 align="left">Hi 👋! I'm Thura Min Thein, a fullstack web developer from Yangon, Myanmar.</h2>
 
 ###
 
