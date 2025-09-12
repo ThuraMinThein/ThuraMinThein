@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gin/gin-original.svg" height="30" alt="gin logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
