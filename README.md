@@ -1,6 +1,6 @@
 <h2 align="left">Do you know Thura Min Thein?</h2>
 
-<h3>If you do, you can skip this part, or don't, if you want to get updates : </h3>
+<h3>If you do, you can skip this part, or don't skip if you want to get updates : </h3>
 <p>
   I am a nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.<br/>
   Mainly focus on Backend development with NestJs, then Gin and Spring Boot.<br/>
@@ -13,7 +13,7 @@
   Want to visit my portfolio?
 </div>
 
-<link href="https://thuraminthein.vercel.app">click here<link/>
+<link rel="portfolio" href="https://thuraminthein.vercel.app">click here<link/>
 
 ###
 
