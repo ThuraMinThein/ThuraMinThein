@@ -1,13 +1,19 @@
 <h2 align="left">Do you know Thura Min Thein?</h2>
-###
-<h3>If you do you can skip this part :></h3>
+
+<h3>If you do, you can skip this part, or don't, if you want to get updates : </h3>
 <p>
-  I am a nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.
-  Mainly focus on Backend development with NestJs, then Gin and Spring Boot.
-  I also work on Fontend with ReactJs. I use React Native for mobile development.
+  I am a nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.<br/>
+  Mainly focus on Backend development with NestJs, then Gin and Spring Boot.<br/>
+  I also work on Fontend with ReactJs. I use React Native for mobile development.<br/>
 
   I see myself as a builder want to build the best things in life.
 </p>
+
+<div>
+  Want to visit my portfolio?
+</div>
+
+<link href="https://thuraminthein.vercel.app">click here<link/>
 
 ###
 
