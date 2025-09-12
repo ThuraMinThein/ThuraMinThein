@@ -6,7 +6,7 @@
   Mainly focus on Backend development with NestJs, then Gin and Spring Boot.<br/>
   I also work on Fontend with ReactJs. I use React Native for mobile development.<br/>
 
-  I see myself as a builder want to build the best things in life.
+  I see myself as a builder, building the best things in life.
 </p>
 
 <div>
