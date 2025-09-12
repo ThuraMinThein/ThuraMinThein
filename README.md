@@ -1,4 +1,13 @@
-<h2 align="left">Hi 👋! I'm Thura Min Thein, a fullstack developer from Yangon, Myanmar.</h2>
+<h2 align="left">Do you know Thura Min Thein?</h2>
+###
+<h3>If you do you can skip this part :></h3>
+<p>
+  I am a nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.
+  Mainly focus on Backend development with NestJs, then Gin and Spring Boot.
+  I also work on Fontend with ReactJs. I use React Native for mobile development.
+
+  I see myself as a builder want to build the best things in life.
+</p>
 
 ###
 
