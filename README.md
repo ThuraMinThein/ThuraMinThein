@@ -13,7 +13,7 @@
   Want to visit my portfolio?
 </div>
 
-<link rel="portfolio" href="https://thuraminthein.vercel.app">click here<link/>
+<a rel="portfolio" href="https://thuraminthein.vercel.app">click here</a>
 
 ###
 
