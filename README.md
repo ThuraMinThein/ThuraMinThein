@@ -1,6 +1,5 @@
 <h2 align="left">Do you know Thura Min Thein?</h2>
 
-<h3>If you do, you can skip this part, or don't skip if you want to get updates : </h3>
 <p>
   A nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.<br/>
   Mainly focus on Backend development with NestJs, then Gin and Spring Boot.<br/>
