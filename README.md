@@ -1,4 +1,4 @@
-<h2 align="left">Thura Min Thein?</h2>
+<h2 align="left">Thura Min Thein</h2>
 
 <p>
   A nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.<br/>
