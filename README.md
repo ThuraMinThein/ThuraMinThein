@@ -1,7 +1,7 @@
 <h2 align="left">Thura Min Thein</h2>
 
 <p>
-  A nineteen-year-old boy. Currently a Backend developer at YEC, since 2024 April 1.<br/>
+  Currently a Backend developer at YEC, since 2024 April 1.<br/>
   Mainly focus on Backend development with NestJs, Gin and Spring Boot.<br/>
   I also work on Fontend with ReactJs. I use React Native for mobile development.<br/>
 
