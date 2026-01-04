@@ -5,12 +5,11 @@
   Mainly focus on Backend development with NestJs, Gin and Spring Boot.<br/>
   I also work on Fontend with ReactJs. I use React Native for mobile development.<br/>
 
-  I see myself as a builder, building the best things in life.
 </p>
 
-<div>
-  Want to visit my portfolio?
-</div>
+<p>
+  Portfolio:
+</p>
 
 <a rel="portfolio" href="https://thuraminthein.dev">click here</a>
 
