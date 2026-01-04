@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  Portfolio: <a rel="portfolio" href="https://thuraminthein.dev">click here</a>
+  Portfolio: <a rel="portfolio" href="https://thuraminthein.dev">Thura Min Thein
 </p>
 
 
