@@ -8,10 +8,9 @@
 </p>
 
 <p>
-  Portfolio:
+  Portfolio: <a rel="portfolio" href="https://thuraminthein.dev">click here</a>
 </p>
 
-<a rel="portfolio" href="https://thuraminthein.dev">click here</a>
 
 ###
 
