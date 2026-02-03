@@ -1,9 +1,13 @@
 <h2 align="left">Thura Min Thein</h2>
 
 <p>
-  Currently a Backend developer at YEC, since 2024 April 1.<br/>
-  Mainly focus on Backend development with NestJs, Gin and Spring Boot.<br/>
-  I also work on Fontend with ReactJs. I use React Native for mobile development.<br/>
+Backend-focused Full Stack Developer with hands-on experience building scalable REST 
+APIs and real-time systems using NestJS, Spring Boot, and Gin. Strong background in 
+database design, and API performance. Experienced in delivering production systems 
+including e-commerce, school management, and AI-integrated platforms. Developed AI
+enabled workflows using MCP and Retrieval-Augmented Generation (RAG) pipelines for 
+intelligent application features. Focused on clean architecture, CI/CD, and production-grade 
+engineering practices.
 
 </p>
 
