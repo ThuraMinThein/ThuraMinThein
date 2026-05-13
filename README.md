@@ -7,7 +7,6 @@ Building scalable systems with Go, NestJS, Spring Boot, and React
 
 <p align="center">
   <a href="https://thuraminthein.dev">Portfolio</a> •
-  <a href="https://github.com/ThuraMinThein">GitHub</a> •
   <a href="mailto:thuraminthein.dev@gmail.com">Email</a>
 </p>
 
