@@ -5,7 +5,7 @@ Backend-focused Full Stack Developer <br/>
 Building scalable systems with Go, NestJS, Spring Boot, and React
 </p>
 
-<p align="center">https://github.com/ThuraMinThein/ThuraMinThein/edit/main/README.md
+<p align="center">
   <a href="https://thuraminthein.dev">Portfolio</a> •
   <a href="mailto:thuraminthein.dev@gmail.com">Email</a>
 </p>
