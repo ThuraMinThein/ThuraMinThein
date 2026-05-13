@@ -5,7 +5,7 @@ Backend-focused Full Stack Developer <br/>
 Building scalable systems with Go, NestJS, Spring Boot, and React
 </p>
 
-<p align="center">
+<p align="center">https://github.com/ThuraMinThein/ThuraMinThein/edit/main/README.md
   <a href="https://thuraminthein.dev">Portfolio</a> •
   <a href="mailto:thuraminthein.dev@gmail.com">Email</a>
 </p>
@@ -53,7 +53,7 @@ real-time systems, and production-grade applications.
 
 ### Cinema Booking Microservices
 Distributed cinema booking platform using Go microservices, gRPC,
-PostgreSQL, Redis, Docker, and event-driven architecture.
+PostgreSQL, Redis, and Docker.
 
 ### AI-Integrated Platform
 Implemented Retrieval-Augmented Generation (RAG) pipelines and MCP workflows
