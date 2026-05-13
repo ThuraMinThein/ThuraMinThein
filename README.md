@@ -29,10 +29,10 @@ real-time systems, and production-grade applications.
 
 ### Backend
 ![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 ![Gin](https://img.shields.io/badge/Gin-000?style=for-the-badge&logo=gin)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
