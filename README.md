@@ -73,9 +73,9 @@ and scalable backend architecture.
 
 <div align="center">
 
-<img
+<!-- <img
   src="https://github-readme-stats.vercel.app/api?username=ThuraMinThein&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+/> -->
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=ThuraMinThein&theme=tokyonight&hide_border=true"
