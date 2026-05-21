@@ -1,7 +1,7 @@
 <h1 align="center">Thura Min Thein</h1>
 
 <p align="center">
-Backend-focused Full Stack Developer <br/>
+Full Stack Developer <br/>
 Building scalable systems with Go, NestJS, Spring Boot, and React
 </p>
 
