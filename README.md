@@ -2,7 +2,7 @@
 
 <p align="center">
 Full Stack Developer <br/>
-Building scalable systems with Go, NestJS, Spring Boot, and React
+Building scalable systems with Go, NodeJS, Java, and React
 </p>
 
 <p align="center">
