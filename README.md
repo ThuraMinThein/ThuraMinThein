@@ -2,7 +2,7 @@
 
 <p align="center">
 Full Stack Developer <br/>
-Building scalable systems with Go, NodeJS, Java, and React
+Go, NodeJS, Java, and React
 </p>
 
 <p align="center">
